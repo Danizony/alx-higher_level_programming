@@ -1,15 +1,14 @@
 #!/usr/bin/python3
-"""Program with a class that defines a square based on some conditions"""
+""" Working on oop with python """
 
 
 class Square():
-   """square class with private attribute"""
+    """Class representing a square"""
 
-   def __init__(self, size):
-       """Initialize the class
-
-       Args:
-            size (int): size of the square
-       """
-       self.__size = size
+    def __init__(self, size):
+        """ initialize the class
+        Args:
+           size (int): size of the square
+        """
+        self.__size = size
 
