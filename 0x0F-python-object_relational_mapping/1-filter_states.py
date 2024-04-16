@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This python script lists all states with 
+This python script lists all states with
 a name starting with the letter N
 from the database hbtn_0e_0_usa.
 """
